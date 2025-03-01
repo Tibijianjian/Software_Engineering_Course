@@ -75,7 +75,7 @@
 
 ## 组员3：周锦
 
-![](images\zhoujin_Image.jpg)
+![](./images/zhoujin_Image.jpg)
 
 ### 自我简介
 
